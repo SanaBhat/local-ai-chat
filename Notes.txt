@@ -1,0 +1,54 @@
+### Model Support
+# This application supports all GGUF format models. Some recommended models:
+
+#- Small & Fast: TinyLlama, Phi-2, Qwen-1.8B
+
+#- Balanced: Llama-2-7B, Mistral-7B, DeepSeek-Coder-6.7B
+
+#- Powerful: Llama-2-13B, CodeLlama-13B, Qwen-14B
+
+### System Requirements
+#RAM: 8GB+ (16GB recommended for larger models)
+
+#Storage: 2GB+ for models
+
+#OS: Windows, macOS, or Linux
+
+# Python: 3.8+
+
+### Privacy & Security
+- 🔒 No data leaves your computer
+
+- 🔒 No API keys required
+
+- 🔒 Complete control over your data
+
+- 🔒 Models run locally on your hardware
+
+### Usage
+# Load a Model: Select and load a GGUF model from the sidebar
+
+# Start Chatting: Type your message and press Enter
+
+# Upload Documents: Drag and drop PDFs, images, or text files
+
+# Branch Conversations: Create new conversation branches at any point
+
+# JSON Mode: Constrain responses to specific JSON schemas
+
+### Troubleshooting
+# Common Issues
+# "No models found": Download models using the download script
+
+# Slow responses: Use smaller quantized models (Q4_K_M or smaller)
+
+# Memory issues: Close other applications or use smaller models
+
+### Getting Help
+# Check the console output for detailed error messages. Most issues can be resolved by:
+
+# Ensuring models are in the models/ directory
+
+# Installing all Python dependencies
+
+# Having sufficient RAM and storage
