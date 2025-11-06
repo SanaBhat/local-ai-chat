@@ -13,7 +13,7 @@ A completely offline ChatGPT-like application that runs entirely on your laptop 
 - ✅ **Modern Web UI** - Clean, responsive interface
 
 ## Quick Start
-
+## Quick Start
 ### 1. Installation
 
 ```bash
@@ -28,10 +28,13 @@ pip install -r requirements.txt
 # Download some models
 cd ../models
 python download_models.py
+```
 
 ### 2. Start the Application
-
+```bash
 cd backend
 python start.py
+```
 
-## The application will automatically open in your browser at http://localhost:8000
+The application will automatically open in your browser at http://localhost:8000
+
