@@ -1,6 +1,6 @@
 # LocalAI Chat - 100% Offline AI Assistant
 
-A completely offline ChatGPT-like application that runs entirely on your laptop without any internet connection or external APIs.
+Proof of Concept for a completely offline ChatGPT-like application that runs entirely on your laptop without any internet connection or external APIs.
 
 ## Features
 
@@ -37,4 +37,5 @@ python start.py
 ```
 
 The application will automatically open in your browser at http://localhost:8000
+
 
